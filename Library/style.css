@@ -1,0 +1,13 @@
+.font_normal {FONT-FAMILY: Verdana; FONT-SIZE: 10pt; COLOR: #000000;}
+
+.font_bold {FONT-FAMILY: Verdana; FONT-SIZE: 10pt; COLOR: #000000; FONT-WEIGHT: bold;}
+
+.font_error {FONT-FAMILY: Verdana; FONT-SIZE: 10pt; COLOR: #FF0000;}
+
+.font_white {FONT-FAMILY: Verdana; FONT-SIZE: 10pt; COLOR: #FFFFFF;}
+
+A:link {FONT-FAMILY: Verdana; FONT-SIZE: 10pt; COLOR: #0000FF; TEXT-DECORATION: underline;}
+
+A:vsited {FONT-FAMILY: Verdana;  FONT-SIZE: 10pt; COLOR: #FF0000; TEXT-DECORATION: underline;}
+
+A:hover {FONT-FAMILY: Verdana; FONT-SIZE: 10pt; COLOR: #0000FF; TEXT-DECORATION: none;}
